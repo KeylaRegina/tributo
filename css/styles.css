@@ -1,0 +1,74 @@
+html{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:#000;
+}
+
+
+
+
+.main-title{
+    font-size: -rem;
+    text-align: center;
+
+}
+
+.main-paragraph{
+    font-style: italic;
+    text-align: center;
+}
+.img-banda{
+    height: 1000px;
+    width: 1000px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.featured-image{
+   
+    text-align:center;
+    margin-top: 30px;
+}
+.container{
+    max-width: 1100px;
+    background-color: #000;
+    position: relative;
+    margin: 50px auto;
+    padding: 20px 50px;
+    color: #fff;
+
+}
+.bold{
+    font-weight: bold;
+}
+
+.biography-container{
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #ddd;
+    border-bottom: 1px dashed #ddd;
+}
+
+.quotes-container{
+    background-color: rgb(201, 203, 210);
+    padding: 30px;
+}
+
+.quotes-container blockquote{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.curiosities-container{
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed rgb(201, 203, 210);
+    border-bottom: 1px dashed rgb(201, 203, 210);
+}
+
+.letra-musica{
+    background-color: rgba(143, 158, 97, 0.604);
+    font-style: italic;
+    text-align:center;
+    font-size: 20px;
+    border-radius: 100px;
+}
